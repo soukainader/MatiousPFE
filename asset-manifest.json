@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MatiousPFE/static/css/main.41e4763d.css",
+    "main.js": "/MatiousPFE/static/js/main.14cb86d9.js",
+    "static/media/shop.jpg": "/MatiousPFE/static/media/shop.3db26d1cbc7778c08c3f.jpg",
+    "static/media/logo.png": "/MatiousPFE/static/media/logo.2a7641771c43e1ed7cc7.png",
+    "index.html": "/MatiousPFE/index.html",
+    "main.41e4763d.css.map": "/MatiousPFE/static/css/main.41e4763d.css.map",
+    "main.14cb86d9.js.map": "/MatiousPFE/static/js/main.14cb86d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e4763d.css",
+    "static/js/main.14cb86d9.js"
+  ]
+}
