@@ -11,9 +11,6 @@ import TableRow from "@material-ui/core/TableRow";
 import TablePagination from "@material-ui/core/TablePagination";
 import Paper from "@material-ui/core/Paper";
 import {Select,MenuItem} from '@material-ui/core'
-import InputLabel from '@mui/material/InputLabel';
-import FormControl from '@mui/material/FormControl';
-import Box from '@mui/material/Box';
 
 
 const StyledTableCell = withStyles((theme) => ({
@@ -41,7 +38,7 @@ const useStyles = makeStyles({
   radius: {
     borderRadius:15,
     marginTop:30,
-    marginLeft:30,
+    marginLeft:200,
     maxWidth:1200,
     marginBottom:50,
 },
